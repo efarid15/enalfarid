@@ -9,7 +9,7 @@
     <li>Website   : https://www.enalfarid.me</li>
     <li>Linkedind : https://www.linkedin.com/in/enalfarid</li>
   </ul>
-<h6>⚡ Fun fact: I have no special talent, I'm just passionately curious</h6>
+<h5>⚡ Fun fact: I have no special talent, I'm just passionately curious</h5>
 
 
 <!--

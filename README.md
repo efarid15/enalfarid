@@ -2,7 +2,7 @@
 <h5>Have a passion to learn new technologies, fast learning specially on web and
                         mobile apps interface. Eager to meet new people and work
                         together to achieve same goals.</h5>
-<h5>🔭 I’m currently working as : Freelance Software Engineer</h5>
+<h5>🔭 I’m currently working as : Technical Lead OFFEO</h5>
 <h6>📫 How to reach me:</h6>
   <ul>
     <li>Email     : farid.enal@gmail.com</li>

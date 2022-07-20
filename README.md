@@ -6,8 +6,6 @@
 <h6>📫 How to reach me:</h6>
   <ul>
     <li>Email     : farid.enal@gmail.com</li>
-    <li>Website   : https://www.enalfarid.me</li>
-    <li>Linkedind : https://www.linkedin.com/in/enalfarid</li>
   </ul>
 <h5>⚡ Fun fact: I have no special talent, I'm just passionately curious</h5>
 

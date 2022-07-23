@@ -5,7 +5,7 @@
 <h5>🔭 I’m currently working as : Technical Lead</h5>
 <h6>📫 How to reach me:</h6>
   <ul>
-    <li>Email     : farid.enal@gmail.com</li>
+    <li>Email     : enal.ifat@gmail.com</li>
   </ul>
 <h5>⚡ Fun fact: I have no special talent, I'm just passionately curious</h5>
 

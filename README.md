@@ -1,4 +1,4 @@
-### Hi, I'm Zainal a.k.a Enal 👋 <br/>
+### Hi, I'm Enal 👋 <br/>
 <h5>Have a passion to learn new technologies, fast learning specially on web and
                         mobile apps interface. Eager to meet new people and work
                         together to achieve same goals.</h5>
